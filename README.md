@@ -19,7 +19,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://img.icons8.com/fluency/48/sql.png" width="40" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" alt="Power BI"/>
+  <img src="https://img.icons8.com/3d-fluency/94/power-bi.png" width="40" alt="Power BI"/>
 </p>
 
 ---
