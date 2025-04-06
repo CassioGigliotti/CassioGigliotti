@@ -22,6 +22,9 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40" alt="Power BI"/>
 </p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ---
 
 ### 📂 Alguns dos meus projetos
@@ -38,8 +41,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/cassio-gigliotti/)
 - [Portfólio](https://app.xperiun.com/in/cassio-gigliotti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassio-gigliotti/)  
-[![Portfólio Xperiun](https://img.shields.io/badge/Portf%C3%B3lio%20Xperiun-000000?style=flat&logo=data&logoColor=white)](https://app.xperiun.com/in/cassio-gigliotti)
 
 ---
 
