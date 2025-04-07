@@ -38,7 +38,7 @@
 ## 📫 Onde me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/cassio-gigliotti/)
-- [Portfólio](https://app.xperiun.com/in/cassio-gigliotti)
+- [Portfólio de Power BI](https://app.xperiun.com/in/cassio-gigliotti)
 
 ---
 
